@@ -1,0 +1,19 @@
+{
+    -fx-background: green;
+}
+
+
+.button {
+    -fx-font-size: 55px;
+    -fx-background-color: blue;
+}
+
+
+#clientMsg {
+    -fx-background-color: red;
+}
+
+#serverMsg {
+    -fx-background-color: blue;
+
+}
